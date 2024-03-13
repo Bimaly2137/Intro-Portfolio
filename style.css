@@ -1,0 +1,20 @@
+p1 {
+  text-align: center;
+  text-shadow: black;
+}
+#Intro {
+  background-color: greenyellow;
+  text-align: center;
+}
+h1 {
+  background-color: brown;
+  text-align: center;
+}
+#Hob {
+  text-align: center;
+  background-color: palegoldenrod;
+}
+img {
+  height: 200px;
+  width: 200px;
+}
